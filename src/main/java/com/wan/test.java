@@ -9,5 +9,9 @@ public class test {
 		System.out.println("小傻子");
 		
 		System.out.println("jjjjjjjjjjjj");
+		
+		
+		System.out.println("这是个第一分支");
+		
 	}
 }
